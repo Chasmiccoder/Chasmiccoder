@@ -1,12 +1,14 @@
 ### Hi there, I'm Aryaman M. Kolhe (aka Chasmiccoder)
 
-- 🔭 I’m currently working on a dynamically typed compiler for C-lang, and a project on elementary cryptography.
+- 🔭 I’m currently working on a dynamically typed compiler for C-lang <a href="https://github.com/cimplec/sim-c">(sim-c)</a>, and a project on elementary cryptography.
 - 🔭 I'm interested in the following fields: Quantum Computing, ML/AI.
 - 🌱 I’m currently learning DSA, C-lang, C++, Python.
 - 👯 I’m looking to collaborate on projects related to ML/AI and Quantum Computing
-- 🤔 I’m looking for help with more exposure to the realm of Quantum Computing
+- 🤔 I’m looking for more exposure in the realm of Quantum Computing, so ping me if you can help :)
 - 📫 Get in touch with me via <a href="https://t.me/Chasmiccoder">Telegram</a>, or email me at: chasmiccoder@gmail.com
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chasmiccoder&style=flat-square" alt="AMK" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chasmiccoder&theme=great-gatsby&show_icons=true" alt="stats"/><br></p>
+
 
 <!--
 **Chasmiccoder/Chasmiccoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

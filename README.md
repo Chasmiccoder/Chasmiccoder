@@ -1,9 +1,9 @@
 ### Hi there, I'm Aryaman M. Kolhe (aka Chasmiccoder)
 - 🌱 Always Learning..!
 
-- 🤔👯 I’m looking for more exposure in the realm of Quantum Computing, so ping me if you want to collaborate :)
+<!-- - 🤔👯 I’m looking for more exposure in the realm of Quantum Computing, so ping me if you want to collaborate :) -->
 - 🔭 I’m currently working on a dynamically typed compiler for C-lang <a href="https://github.com/cimplec/sim-c">(sim-c)</a>, and a project on elementary cryptography.
-- 🔭 I'm interested in the following fields: ML/AI, Quantum Computing
+- 🔭 I'm interested in the following fields: ML/AI<!--, Quantum Computing -->
 
 - 📫 Get in touch with me via <a href="https://t.me/Chasmiccoder">Telegram</a>, or email me at: chasmiccoder@gmail.com
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chasmiccoder&style=flat-square" alt="AMK" /> </p>

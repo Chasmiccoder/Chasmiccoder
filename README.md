@@ -8,7 +8,7 @@
 <table>
     <tr>
         <td>
-            <a href="https://t.me/Chasmiccoder"><img src="./telegram.png" alt="tech stack image" width="25"/></a>
+            <a href="https://t.me/Chasmiccoder" target="_blank"><img src="./telegram.png" alt="tech stack image" width="25"/></a>
         </td>
         <td>
             <a href="mailto:aryamankolhe@acm.org">aryamankolhe@acm.org</a>    

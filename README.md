@@ -3,6 +3,7 @@
 - 🌱 Newbie, but I like to learn
 - 🔭 I'm interested in the following fields: `Quantum Computing`, `Artificial Intelligence`, `Automata Theory`, `Data Structures and Algorithms`
 
+<br>
 
 ### Get in Touch
 <table>
@@ -19,6 +20,6 @@
     </tr>
 </table>
 
-
+<br>
 
 - 🚀 Thanks for visiting :)

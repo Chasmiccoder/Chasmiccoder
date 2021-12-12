@@ -14,7 +14,7 @@
             <a href="mailto:aryamankolhe@acm.org">aryamankolhe@acm.org</a>    
         </td>
         <td>
-            <a href="mailto:aryamankolhe@acm.org">aryamankolhe@acm.org</a>
+            <a href="mailto:chasmiccoder@gmail.com">chasmiccoder@gmail.com</a>
         </td>
     </tr>
 </table>

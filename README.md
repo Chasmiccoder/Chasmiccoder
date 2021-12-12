@@ -1,7 +1,8 @@
 <h2><p style="text-align: center;">Hi there! I'm Aryaman</p></h2>
 
 - 🌱 Newbie, but I like to learn
-- 🔭 I'm interested in the following fields: `Quantum Computing`, `Artificial Intelligence`, `Automata Theory`, `Data Structures and Algorithms`
+- 🔭 I'm interested in the following fields:  
+`Quantum Computing`, `Artificial Intelligence`, `Automata Theory`, `Data Structures and Algorithms`
 
 <br>
 

@@ -1,4 +1,4 @@
-<h2><p style="text-align: center;">Hi there! I'm Aryaman</p></h2>
+<h2>Hi there! I'm Aryaman</h2>
 
 - 🌱 Newbie, but I like to learn  
 - 🔭 I'm interested in the following fields:  
@@ -34,7 +34,7 @@
 <p float="left"> 
     <img src="https://github-readme-stats.vercel.app/api?username=Chasmiccoder&theme=calm&show_icons=true" alt="stats" width=350>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasmiccoder&theme=monokai-metallian"  width=350 alt="Streak Stats!">
 </p>
 </details>
@@ -43,4 +43,4 @@
 <br>
 
 
-<p style="text-align: right">🚀 Thanks for visiting :)</p>
+<p align="right">🚀 Thanks for visiting :)</p>

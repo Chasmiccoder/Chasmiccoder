@@ -2,7 +2,7 @@
 
 - 🌱 Newbie, but I like to learn
 - 🔭 I'm interested in the following fields:  
-`Quantum Computing`, `Artificial Intelligence`, `Automata Theory`, `Data Structures and Algorithms`
+`Quantum Computing`, `Artificial Intelligence`, `Automata Theory`, `Data Structures and Algorithms`  
 
 <br>
 
@@ -10,7 +10,10 @@
 <table>
     <tr>
         <td>
-            <a href="https://t.me/Chasmiccoder"><img src="./telegram.png" alt="tech stack image" width="25"/></a>
+            <a href="https://t.me/Chasmiccoder"><img src="./telegram.png" alt="Telegram" width="25"/></a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/aryamankolhe/"><img src="./linkedin.png" alt="Linkedin" width="30"/></a>
         </td>
         <td>
             <a href="mailto:aryamankolhe@acm.org">aryamankolhe@acm.org</a>    
@@ -21,6 +24,18 @@
     </tr>
 </table>
 
+<br>
+
+<details>
+<summary>Click for Stats!</summary>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chasmiccoder&style=flat-square" alt="AMK" /> </p>
+<p float="left"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Chasmiccoder&theme=calm&show_icons=true" alt="stats" width=400>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasmiccoder&theme=monokai-metallian"  width=400 alt="Streak Stats!">
+</p>
+</details>
+
+<br>
 <br>
 
 - 🚀 Thanks for visiting :)

@@ -34,6 +34,7 @@
 <p float="left"> 
     <img src="https://github-readme-stats.vercel.app/api?username=Chasmiccoder&theme=calm&show_icons=true" alt="stats" width=350>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasmiccoder&theme=monokai-metallian"  width=350 alt="Streak Stats!">
 </p>
 </details>
@@ -42,4 +43,4 @@
 <br>
 
 
-<div style="text-align: right">🚀 Thanks for visiting :)</div>
+<p style="text-align: right">🚀 Thanks for visiting :)</p>

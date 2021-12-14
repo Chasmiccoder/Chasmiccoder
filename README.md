@@ -32,9 +32,9 @@
     <img src="https://komarev.com/ghpvc/?username=Chasmiccoder&style=flat-square" alt="AMK" /> 
 </p>
 <p float="left"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Chasmiccoder&theme=calm&show_icons=true" alt="stats" width=385>
+    <img src="https://github-readme-stats.vercel.app/api?username=Chasmiccoder&theme=calm&show_icons=true" alt="stats" width=380>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasmiccoder&theme=monokai-metallian"  width=385 alt="Streak Stats!">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasmiccoder&theme=monokai-metallian"  width=380 alt="Streak Stats!">
 </p>
 </details>
 

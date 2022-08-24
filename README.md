@@ -16,7 +16,7 @@
             <a href="https://www.linkedin.com/in/aryamankolhe/"><img src="./linkedin.png" alt="Linkedin" width="30"/></a>
         </td>
         <td>
-            <a href="mailto:aryamankolhe@acm.org">aryamankolhe@acm.org</a>    
+            <a href="mailto:aryamankolhe@acm.org">aryaman.kolhe@research.iiit.ac.in</a>    
         </td>
         <td>
             <a href="mailto:chasmiccoder@gmail.com">chasmiccoder@gmail.com</a>
